@@ -518,7 +518,7 @@ Escriba código en un pizarrón o en papel, pero no en la computadora. Pruebe co
         - Este es un libro corto, pero le dará un gran manejo en el lenguaje C, y si lo practica un poco, rápidamente conseguirá ser experto. Comprender C le ayudará a entender cómo funcionan los programas y la memoria.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **Cómo las computadoras procesan un programa:**
+- [+] **Cómo las computadoras procesan un programa:**
     - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [ ] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
