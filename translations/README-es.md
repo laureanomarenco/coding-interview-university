@@ -549,7 +549,7 @@ Escriba código en un pizarrón o en papel, pero no en la computadora. Pruebe co
 
 - ### Arreglos
     - Implemente un vector automáticamente redimensionable.
-    - [ ] Descripción:
+    - [+] Descripción:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [UCBerkley CS61B - Linear and Multi-Dim Arrays (video)](https://youtu.be/Wp8oiO_CZZE?t=15m32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
