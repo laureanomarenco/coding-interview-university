@@ -556,7 +556,7 @@ Escriba código en un pizarrón o en papel, pero no en la computadora. Pruebe co
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [+] Implemente un vector (Arreglo mutable con redimensionamiento automático):
         - [+] Practique codificar usando arreglos y apuntadores, y un apuntador matemático para saltar a un índice en lugar de utilizar la indexación.
-        - [ ] Nuevo arreglo de información primaria con memoria asignada.
+        - [+] Nuevo arreglo de información primaria con memoria asignada.
             - Puede asignar un arreglo entero, simplemente no use sus características.
             - Empiece con 16, o si el número inicial es mayor, use potencias del 2 - 16, 32, 64, 128.
         - [ ] size() – Número de elementos.
